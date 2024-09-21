@@ -55,4 +55,9 @@ int main() {
 Enter a message: Hii
 Message sent to the queue: Hii
 
+sarath-patti@sarath-patti-HP-Laptop-15s-fq5xxx:~/.ssh/MT2024112-_2$ ipcs -q
+
+------ Message Queues --------
+key        msqid      owner      perms      used-bytes   messages    
+0x61050001 0          sarath-pat 666        5            1  
 */
